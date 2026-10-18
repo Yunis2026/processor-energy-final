@@ -1,0 +1,16 @@
+"parameter","value"
+"alpha",0.2
+"beta_per_K",0.05
+"nx",21
+"dt_s",1
+"observation_time_s",3600
+"task_count",162528
+"L_m",0.003
+"A_cs_m2",9e-07
+"volume_m3",2.7e-09
+"c_v_J_per_m3K",1600000
+"k_W_per_mK",100
+"T_ambient_K",298.15
+"T_reference_K",298.15
+"carbon_intensity_kg_CO2e_per_kWh",0.4
+"equality_tolerance_J",1e-06

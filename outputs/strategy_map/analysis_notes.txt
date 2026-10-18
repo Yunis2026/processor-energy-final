@@ -1,0 +1,10 @@
+Joint idle-power and thermal-resistance study: 13 x 7 = 91 scenarios.
+Alpha, beta, workload, geometry, material properties and carbon intensity are fixed.
+Ranges are exploratory assumptions, not calibrated uncertainty intervals.
+Positive saving favors high + idle; negative saving favors low frequency.
+Map colors represent sampled scenario results; lines connect calculated boundary points.
+Root finding detects a bracketed crossing, not a proof of uniqueness or monotonicity.
+Time-step checks at boundary points do not establish full spatial convergence.
+Near-equality within 1e-6 J is a numerical classification, not a physical accuracy claim.
+Numerical consistency is not hardware validation.
+A common fixed positive electricity emission factor preserves energy rankings.
