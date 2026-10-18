@@ -1,0 +1,12 @@
+Four-factor coupled PDE screening
+Coupled baseline high energy: 6.021350566 J
+Coupled baseline low energy: 6.100287230 J
+Coupled baseline high-mode saving: 1.293983%
+Seven levels per factor; 28 rows.
+Repeated baseline calculations are cached.
+Only one factor varies at a time. Interactions are not measured here.
+Factor ranking depends on selected ranges. The ranges are not confidence intervals.
+No measurement uncertainty distributions or hardware calibration are claimed.
+Common fixed positive carbon intensity preserves the energy ranking.
+The time-step check covers the baseline. Inspect sensitive cases before final conclusions.
+Solver failures are recorded explicitly and are not evidence of physical thermal runaway.

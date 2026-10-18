@@ -1,0 +1,5 @@
+"factor","minimum_saving_percent","maximum_saving_percent","span_percentage_points","both_strategies_win_at_sampled_levels"
+"idle_power_mW",-9.00322592605988,6.44166104720738,15.4448869732673,TRUE
+"feedback_alpha",0.68010637826847,1.89834551822461,1.21823913995614,FALSE
+"feedback_beta_per_K",0.653102612726626,1.60053948871888,0.94743687599225,FALSE
+"thermal_resistance_K_per_W",0.653940984731013,1.60044051447415,0.946499529743142,FALSE

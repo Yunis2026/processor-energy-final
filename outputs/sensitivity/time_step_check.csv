@@ -1,0 +1,3 @@
+"status","error","nx","dt_s","feedback","high_energy_J","low_energy_J","saving_percent","energy_difference_high_minus_low_J","high_peak_temperature_C","low_peak_temperature_C","high_carbon_mg_CO2e","low_carbon_mg_CO2e","max_energy_balance_residual_J","saving_change_from_dt_1_percentage_points"
+"ok","",21,1,TRUE,6.02135056614965,6.10028722958675,1.2939827333744,-0.078936663437096,25.7634997886273,25.1042814764867,0.669038951794406,0.677809692176306,5.89899873740252e-13,0
+"ok","",21,0.5,TRUE,6.02135060529543,6.10028722968194,1.29398209321081,-0.0789366243865102,25.7634997886273,25.1042814764867,0.669038956143936,0.677809692186882,1.15270618571139e-12,-6.40163587251052e-07

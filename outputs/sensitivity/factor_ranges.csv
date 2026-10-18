@@ -1,0 +1,5 @@
+"factor","label","baseline","lower","upper","status"
+"idle_power_mW","Idle power (mW)",0.1,0,0.3,"exploratory assumption; not a confidence interval"
+"thermal_resistance_K_per_W","Thermal resistance (K/W)",60,30,120,"exploratory assumption; not a confidence interval"
+"feedback_alpha","Feedback alpha",0.2,0,0.4,"exploratory assumption; not a confidence interval"
+"feedback_beta_per_K","Feedback beta (1/K)",0.05,0.025,0.1,"exploratory assumption; not a confidence interval"
