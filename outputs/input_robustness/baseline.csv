@@ -1,0 +1,2 @@
+"high_current_change_percent","low_current_change_percent","high_current_mA","low_current_mA","dt_s","high_energy_J","low_energy_J","energy_difference_high_minus_low_J","saving_percent","preferred_strategy","high_peak_temperature_C","low_peak_temperature_C","high_carbon_mg_CO2e","low_carbon_mg_CO2e","max_energy_balance_residual_J"
+0,0,3.73185,0.51297,1,6.02135056614965,6.10028722958675,-0.078936663437096,1.2939827333744,"high_plus_idle",25.7634997886273,25.1042814764867,0.669038951794406,0.677809692176306,5.89899873740252e-13

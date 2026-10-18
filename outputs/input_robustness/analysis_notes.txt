@@ -1,0 +1,10 @@
+Exploratory input robustness analysis; all runs use temperature feedback.
+Current perturbations are assumed stress scenarios, not paper-reported measurement errors.
+Voltage, execution times, task count, idle power and thermal assumptions remain fixed.
+Four joint corners are tested at each magnitude; no probability distribution is assigned.
+Minimum/maximum values describe tested corners, not proven extrema over a continuous box.
+Independent and opposing input changes are scenarios, not an established error correlation model.
+Root finding detects a bracketed crossing, not a proof of uniqueness.
+Time-step checks at crossings are numerical checks, not hardware validation.
+A ranking reversal establishes conditional sensitivity, not the probability of either strategy winning.
+The original paper_data.csv is not modified.

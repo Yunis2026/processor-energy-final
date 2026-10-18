@@ -1,0 +1,10 @@
+"parameter","value"
+"idle_power_W",1e-04
+"thermal_resistance_K_per_W",60
+"alpha",0.2
+"beta_per_K",0.05
+"nx",21
+"dt_s",1
+"task_count",162528
+"observation_time_s",3600
+"carbon_intensity_kg_CO2e_per_kWh",0.4
