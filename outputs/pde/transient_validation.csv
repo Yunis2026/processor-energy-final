@@ -1,0 +1,13 @@
+"phase","mode","dt_s","max_absolute_temperature_error_K","error_decreases_with_refinement"
+"startup_first_5_seconds","high",0.2,0.0775267473621852,TRUE
+"startup_first_5_seconds","high",0.1,0.0454039027504223,TRUE
+"startup_first_5_seconds","high",0.05,0.0242412234122753,TRUE
+"startup_first_5_seconds","high",0.025,0.0126013383155055,TRUE
+"startup_first_5_seconds","low",0.2,0.0106566168507243,TRUE
+"startup_first_5_seconds","low",0.1,0.00624109757728775,TRUE
+"startup_first_5_seconds","low",0.05,0.00333213295647283,TRUE
+"startup_first_5_seconds","low",0.025,0.00173214585680626,TRUE
+"high_idle_first_5_seconds","high",0.2,0.0768972216914108,TRUE
+"high_idle_first_5_seconds","high",0.1,0.0450352180925506,TRUE
+"high_idle_first_5_seconds","high",0.05,0.024044382025977,TRUE
+"high_idle_first_5_seconds","high",0.025,0.0124990140697037,TRUE

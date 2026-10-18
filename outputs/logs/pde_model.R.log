@@ -1,0 +1,38 @@
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+PDE summary:
+  mode feedback task_count active_time_s total_energy_J carbon_mg_CO2e
+1 high    FALSE     162528      459.9542       5.978389      0.6642655
+2 high     TRUE     162528      459.9542       6.021351      0.6690390
+3  low    FALSE     162528     3599.9952       6.094076      0.6771196
+4  low     TRUE     162528     3599.9952       6.100287      0.6778097
+  peak_temperature_C final_mean_temperature_C energy_balance_residual_J
+1           25.75789                 25.00600             -2.315037e-12
+2           25.76350                 25.00600              4.851583e-13
+3           25.10418                 25.09983              1.292288e-14
+4           25.10428                 25.09993              5.898999e-13
+No-feedback baseline energy maximum difference: 7.5850437e-13 J
+Maximum absolute energy-balance residual: 2.31503719e-12 J
+Uniform validation maximum spatial spread: 0 K
+Uniform validation maximum analytic final-temperature error: 1.58916432e-05 K
+Startup transient maximum analytic temperature error: 0.0775267474 K
+High-mode cooldown maximum analytic temperature error: 0.0768972217 K
+Transient error decreases with refinement: startup yes, cooldown yes
+Temperature feedback strategy ranking: high (without feedback: high)
+Time refinement 1 s to 0.5 s: peak delta -5.68434189e-14 K, energy delta -3.9145772e-08 J
+Spatial refinement 41 to 81 cells: peak delta -8.67911541e-06 K, energy delta -2.13843165e-10 J
+High-mode energy saving: no feedback 1.898346%, feedback 1.293983%
+High-mode carbon reduction with fixed intensity: no feedback 1.898346%, feedback 1.293983%
+New PDE outputs written to outputs/pde

@@ -1,0 +1,46 @@
+Checking the no-feedback energy baseline...
+Computing the coupled baseline...
+idle_power_mW = 0
+idle_power_mW = 0.05
+idle_power_mW = 0.1
+idle_power_mW = 0.15
+idle_power_mW = 0.2
+idle_power_mW = 0.25
+idle_power_mW = 0.3
+thermal_resistance_K_per_W = 30
+thermal_resistance_K_per_W = 45
+thermal_resistance_K_per_W = 60
+thermal_resistance_K_per_W = 75
+thermal_resistance_K_per_W = 90
+thermal_resistance_K_per_W = 105
+thermal_resistance_K_per_W = 120
+feedback_alpha = 0
+feedback_alpha = 0.0666667
+feedback_alpha = 0.133333
+feedback_alpha = 0.2
+feedback_alpha = 0.266667
+feedback_alpha = 0.333333
+feedback_alpha = 0.4
+feedback_beta_per_K = 0.025
+feedback_beta_per_K = 0.0375
+feedback_beta_per_K = 0.05
+feedback_beta_per_K = 0.0625
+feedback_beta_per_K = 0.075
+feedback_beta_per_K = 0.0875
+feedback_beta_per_K = 0.1
+Checking coupled baseline at dt = 0.5 s...
+
+Sensitivity screening summary:
+                     factor minimum_saving_percent maximum_saving_percent
+              idle_power_mW             -9.0032259               6.441661
+             feedback_alpha              0.6801064               1.898346
+        feedback_beta_per_K              0.6531026               1.600539
+ thermal_resistance_K_per_W              0.6539410               1.600441
+ span_percentage_points both_strategies_win_at_sampled_levels
+             15.4448870                                  TRUE
+              1.2182391                                 FALSE
+              0.9474369                                 FALSE
+              0.9464995                                 FALSE
+
+Baseline high-mode saving: 1.293983%
+Results written to outputs/sensitivity/
